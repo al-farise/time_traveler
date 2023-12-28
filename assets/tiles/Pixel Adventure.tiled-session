@@ -1,0 +1,57 @@
+{
+    "activeFile": "Main.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Level-01.tmx": {
+            "expandedObjectLayers": [
+                3,
+                2
+            ],
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 327.3333333333333,
+                "y": 180.66666666666663
+            }
+        },
+        "Level-02.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 360,
+                "y": 94.66666666666663
+            }
+        },
+        "Main.tmx": {
+            "expandedObjectLayers": [
+                3,
+                2
+            ],
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 327,
+                "y": 253
+            }
+        },
+        "Pixel Adventure.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "openFiles": [
+        "Level-01.tmx",
+        "Level-02.tmx",
+        "Main.tmx"
+    ],
+    "project": "Pixel Adventure.tiled-project",
+    "recentFiles": [
+        "Level-01.tmx",
+        "Level-02.tmx",
+        "Main.tmx",
+        "Pixel Adventure.tsx"
+    ]
+}
